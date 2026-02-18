@@ -26,9 +26,13 @@
   },
   "devDependencies": {
     "@types/node": "^25.2.3",
-    "bumpp": "^10.4.1",
+    "rolldown": "1.0.0-rc.5",
     "tsdown": "^0.20.3",
-    "typescript": "^5.9.3",
-    "vitest": "^4.0.18"
+    "typescript": "^5.9.3"
+  },
+  "pnpm": {
+    "overrides": {
+      "rolldown": "1.0.0-rc.5"
+    }
   }
 }
