@@ -1,5 +1,5 @@
 {
-  "name": "workspace-bug-repro",
+  "name": "tsdown-workspace-demo",
   "type": "module",
   "version": "0.0.0",
   "exports": {
@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "@types/node": "^25.2.3",
-    "rolldown": "1.0.0-rc.5",
     "tsdown": "^0.20.3",
     "typescript": "^5.9.3"
   },

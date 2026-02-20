@@ -24,9 +24,6 @@ importers:
       '@types/node':
         specifier: ^25.2.3
         version: 25.2.3
-      rolldown:
-        specifier: 1.0.0-rc.5
-        version: 1.0.0-rc.5
       tsdown:
         specifier: ^0.20.3
         version: 0.20.3(typescript@5.9.3)
