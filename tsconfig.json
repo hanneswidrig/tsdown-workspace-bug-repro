@@ -15,5 +15,8 @@
     "verbatimModuleSyntax": true,
     "skipDefaultLibCheck": true,
     "skipLibCheck": true,
+    "paths": {
+      "@lib/*": ["./libs/*"],
+    },
   },
 }
